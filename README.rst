@@ -2,6 +2,8 @@
 django-avatar2
 ==============
 
+Useless text
+
 This is a fork of original https://github.com/jezdez/django-avatar . This one
 is more updated as I merged more than 10 long-standing pull requests from the
 original repository.
